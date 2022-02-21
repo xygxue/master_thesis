@@ -1,1 +1,1 @@
-# master_thesis
+# Data Synthesizer
